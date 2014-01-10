@@ -1,10 +1,5 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Copyright Tamas Marton 2013
-#
-#
-#
-#
+# Author: Tamas Marton
 
 import os
 import re

@@ -1,10 +1,5 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Copyright Tamas Marton 2013
-#
-#
-#
-# This module needs python-expat to be installed on the Router
+# Author: Tamas Marton
 
 import speedtest_cli
 import time

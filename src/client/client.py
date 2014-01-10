@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Copyright Tamas Marton 2013
-#
-#
-#
-#
+# Author: Tamas Marton
+
 
 import comm_client
 import model

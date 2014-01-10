@@ -1,11 +1,8 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Copyright Tamas Marton 2013
-#
-#
+# Author: Tamas Marton
 #
 # rrdtool needs to be installed on the router
-# TODO: check opkg list-installed | grep rrdtool
+
 
 import os
 import time

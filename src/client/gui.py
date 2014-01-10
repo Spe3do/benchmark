@@ -1,17 +1,12 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Copyright Tamas Marton 2013
-#
-#
-#
-#
+# Author: Tamas Marton
 
 import sys
 import time
 import kivy
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.tabbedpanel import TabbedPanel
-from kivy.logger import Logger #loggolashoz
+from kivy.logger import Logger
 from kivy.properties import ObjectProperty, ListProperty
 from kivy.app import App
 

@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Copyright Tamas Marton 2013
-#
-#
-#
-#
+# Author: Tamas Marton
 
 import argparse     # argparse make it easy to write user-friendy cli interface
 from time import sleep

@@ -1,17 +1,12 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Copyright Tamas Marton 2013
-#
-#
-#
-#
+# Author: Tamas Marton
 
 import socket
 from time import sleep
 
 DEBUG=0
 
-# Implement the connection and the with the client
+# Implement the connection and the communication with the client
 class CommServer:
 
     def __init__(self, controller, port=33318, mybuffer=1024):
